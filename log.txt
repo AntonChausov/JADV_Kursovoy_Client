@@ -1,0 +1,7 @@
+[Sun Oct 31 11:25:23 MSK 2021 2] Connect
+[Sun Oct 31 11:25:23 MSK 2021 1] Users count = 1
+[Sun Oct 31 11:25:26 MSK 2021 3] Me: qweq
+[Sun Oct 31 11:25:29 MSK 2021 4] Me: eeee
+[Sun Oct 31 11:25:31 MSK 2021 5] Me: wwwww
+[Sun Oct 31 11:25:34 MSK 2021 6] Me: /exit
+[Sun Oct 31 11:25:34 MSK 2021 7] Disconnect
