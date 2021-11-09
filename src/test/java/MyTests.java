@@ -1,4 +1,5 @@
 import static org.hamcrest.MatcherAssert.assertThat;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 import org.mockito.Mock;
@@ -15,8 +16,7 @@ public class MyTests {
 
 
     @Test
-    public void ListenerTest() throws IOException, InterruptedException {
-        // given:
+    public void WorkStartTest() throws IOException, InterruptedException {
         Socket socket = Mockito.mock(Socket.class);
         ByteArrayInputStream myInputStream = new ByteArrayInputStream(("Hi!").getBytes(StandardCharsets.UTF_8));
         Mockito.when(socket.getInputStream())
@@ -31,5 +31,6 @@ public class MyTests {
         listener.start();
         Thread.sleep(500);
         writer.interrupt();
+        assertEquals(myOutputStream.toString(), "Tony: /start\r\n");
     }
 }
