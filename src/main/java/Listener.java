@@ -22,14 +22,14 @@ public class Listener extends Thread {
         while (writer.isAlive()) {
             try {
                 msg = inMessage.readLine();
-                printmsg(msg, logger);
+                printMsg(msg, logger);
             } catch (IOException e) {
                 e.printStackTrace();
             }
         }
     }
 
-    private void printmsg(String msg, Logger logger) {
+    private void printMsg(String msg, Logger logger) {
         System.out.println(msg);
         if (msg.equals("Bye!")) {
             logger.log("Disconnect");

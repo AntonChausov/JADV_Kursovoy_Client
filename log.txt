@@ -5,3 +5,19 @@
 [Sun Oct 31 11:25:31 MSK 2021 5] Me: wwwww
 [Sun Oct 31 11:25:34 MSK 2021 6] Me: /exit
 [Sun Oct 31 11:25:34 MSK 2021 7] Disconnect
+[Fri Nov 05 12:28:55 MSK 2021 2] Users count = 1
+[Fri Nov 05 12:28:55 MSK 2021 1] Connect
+[Fri Nov 05 13:01:47 MSK 2021 1] Anton: Hi!/end
+[Fri Nov 05 13:01:47 MSK 2021 2] Connect
+[Fri Nov 05 13:02:53 MSK 2021 2] Connect
+[Fri Nov 05 13:02:53 MSK 2021 1] Anton: Hi!/end
+[Fri Nov 05 13:03:15 MSK 2021 2] Connect
+[Fri Nov 05 13:03:15 MSK 2021 1] Anton: Hi!/end
+[Fri Nov 05 13:03:38 MSK 2021 2] Connect
+[Fri Nov 05 13:03:38 MSK 2021 1] Hi!
+[Fri Nov 05 14:30:53 MSK 2021 2] Connect
+[Fri Nov 05 14:30:53 MSK 2021 1] Hi!
+[Fri Nov 05 14:33:02 MSK 2021 2] Connect
+[Fri Nov 05 14:33:02 MSK 2021 1] Hi!
+[Fri Nov 05 14:35:16 MSK 2021 1] Hi!
+[Fri Nov 05 14:35:16 MSK 2021 2] Connect
